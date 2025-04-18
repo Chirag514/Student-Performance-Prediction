@@ -87,7 +87,3 @@ Estimated using **Random Forest**:
 - GPA is the most influential factor
 - Random Forest and XGBoost offer the highest accuracy (≈ 93%)
 - Hyperparameter tuning and validation ensured robustness
-
----
-
-
